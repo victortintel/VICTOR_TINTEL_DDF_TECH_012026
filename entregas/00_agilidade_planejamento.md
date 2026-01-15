@@ -24,6 +24,7 @@ Planejar e representar todas as etapas do projeto (da concepção à implementa�
 ---
 
 ## 0.3 Artefato de Planejamento (Fluxo + Dependências)
+
 ```mermaid
 flowchart TD
   A[Item 1: Definir Base + Volume 100k+] --> B[Item 2.1: Integrar na Dadosfera]
