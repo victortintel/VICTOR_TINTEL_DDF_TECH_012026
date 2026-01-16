@@ -1,7 +1,7 @@
 # Item 3 — Dadosfera: Explorar (Catálogo + Data Lake Zones)
 
 ## 3.1 Objetivo
-Catalogar os datasets importados na Dadosfera e organizá-los seguindo boas práticas de Data Lake (camadas raw → staging → curated), com documentação e governança básica (descrição, tags, sensibilidade e uso).
+Catalogar os datasets importados na Dadosfera e organizá-los seguindo boas práticas de Data Lake (camadas raw → staging → curated). Nesta versão do catálogo, o sistema disponibilizou campo de Descrição
 
 ## 3.2 Camadas do Data Lake (proposta)
 - **Raw / Landing (já implementado):** `raw_olist_*`  
