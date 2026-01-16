@@ -26,16 +26,16 @@ Planejar e representar todas as etapas do projeto (da concepção à implementa�
 ## 0.3 Artefato de Planejamento (Fluxo + Dependências)
 
 ```mermaid
-flowchart TD;
-A[Item 1: Definir Base + Volume 100k+] --> B[Item 2.1: Integrar na Dadosfera];
-B --> C[Item 3: Explorar / Catalogar / Camadas];
-C --> D[Item 4: Data Quality (Relatorio)];
-D --> E[Item 5: GenAI/LLM (Texto -> Features)];
-E --> F[Item 6: Modelagem (Kimball + 2 visoes)];
-F --> G[Item 7: Dashboards + Queries + 5 visuais];
-G --> H[Item 8: Pipelines (ETL)];
-H --> I[Item 9: Data App Streamlit + Deploy];
-I --> J[Item 10: Apresentacao (Video + Arquitetura)];
+flowchart TD
+A["Item 1 - Definir base e volume 100k"] --> B["Item 2.1 - Integrar na Dadosfera"]
+B --> C["Item 3 - Explorar e catalogar"]
+C --> D["Item 4 - Data Quality"]
+D --> E["Item 5 - GenAI LLM"]
+E --> F["Item 6 - Modelagem Kimball"]
+F --> G["Item 7 - Dashboards"]
+G --> H["Item 8 - Pipelines ETL"]
+H --> I["Item 9 - Streamlit App"]
+I --> J["Item 10 - Video e arquitetura"]
 ```
 
 ---
