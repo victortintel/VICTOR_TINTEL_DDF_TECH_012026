@@ -28,7 +28,7 @@ Planejar e representar todas as etapas do projeto (da concepção à implementa�
 ```mermaid
 flowchart TD
   A[Item 1: Definir Base + Volume 100k+] --> B[Item 2.1: Integrar na Dadosfera]
-  B --> C[Item 3: Explorar / Catalogar / Camadas]
+  B --> C[Item 3: Explorar / Catalogar / Camadas.]
   C --> D[Item 4: Data Quality (Relatório)]
   D --> E[Item 5: GenAI/LLM (Texto -> Features)]
   E --> F[Item 6: Modelagem (Kimball + 2 visões)]
