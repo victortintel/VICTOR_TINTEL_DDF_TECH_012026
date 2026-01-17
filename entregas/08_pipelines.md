@@ -50,8 +50,8 @@ Após a execução, a pipeline gerou automaticamente o ativo:
 `PUBLIC.VICTOR_TINTEL_DDF_TECH_012026_OLIST_ORDER_ITEMS_PIPELINE`
 
 **Link do ativo no Catálogo (Dadosfera):**
-> Cole aqui o link do seu ativo (URL do navegador)  
-Ex.: `https://app.dadosfera.ai/pt-BR/catalog/data-assets/<ASSET_ID>`
+> [Cole aqui o link do seu ativo (URL do navegador) ](https://app.dadosfera.ai/pt-BR/catalog/data-assets/202a16b5-9030-4e2b-b675-de39f10bc699) 
+
 
 ### Visão geral do ativo (schema + volume)
 - Total de colunas: **8**
