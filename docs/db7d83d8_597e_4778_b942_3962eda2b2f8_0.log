@@ -1,0 +1,22 @@
+2026-01-17 15:47:19.472  INFO        brain.app.services.job_metadata_service  Making request to https://oz8v2zid1e.execute-api.us-east-1.amazonaws.com/jobs/s3/db7d83d8_597e_4778_b942_3962eda2b2f8_0
+2026-01-17 15:47:19.919  INFO        brain.app.services.job_metadata_service  Received status_code 200
+2026-01-17 15:47:19.920  INFO        __main__                        Trying to retrieve the credentials from the connection manager
+2026-01-17 15:47:20.057  INFO        brain.app.services.connection_manager_service  Making request to https://wv6fw7ayj4.execute-api.us-east-1.amazonaws.com/connection_config/1729124233495_cxvtfoca_aws_s3-1.0.0
+2026-01-17 15:47:20.325  INFO        brain.app.services.connection_manager_service  Received status_code 200 from the API
+2026-01-17 15:47:20.452  INFO        __main__                        Successfully retrieve the credentials
+2026-01-17 15:47:20.583  INFO        __main__                        Starting the data collection
+2026-01-17 15:47:20.593  INFO        brain.app.services.job_metadata_service  Making request to https://oz8v2zid1e.execute-api.us-east-1.amazonaws.com/jobs/db7d83d8_597e_4778_b942_3962eda2b2f8_0/connector_state
+2026-01-17 15:47:20.888  INFO        brain.app.services.job_metadata_service  Received status_code 200
+2026-01-17 15:47:20.889  INFO        brain.app.services.job_metadata_service  state_file {'id': 14508, 'state_file': {}, 'updated_at': None, 'job_id': 'db7d83d8_597e_4778_b942_3962eda2b2f8_0', 'created_at': '2026-01-17T15:30:43.271186+00:00'}
+2026-01-17 15:47:21.022  INFO        core.output_engines             Getting Snowflake credentials
+2026-01-17 15:47:21.026  INFO        core.output_engines             Instantiating the SparkSnowflakeOutputEngine
+2026-01-17 15:47:21.147  INFO        core.usecase                    No state file was provided, processing all files
+2026-01-17 15:47:21.148  INFO        core.usecase                    Identified 1 to process
+2026-01-17 15:47:21.148  INFO        core.readers.s3_reader          Reading 1 files from s3
+2026-01-17 15:47:21.277  INFO        core.readers.s3_reader          Selected the reader CsvReader
+2026-01-17 15:47:26.422  INFO        brain.app.services.job_metadata_service  Making request to https://oz8v2zid1e.execute-api.us-east-1.amazonaws.com/jobs/db7d83d8_597e_4778_b942_3962eda2b2f8_0/connector_state/is_first_execution
+2026-01-17 15:47:26.730  INFO        brain.app.services.job_metadata_service  Received status_code 200
+2026-01-17 15:47:26.860  INFO        core.output_engines             Writing table: tb__5p6a8s__VICTOR_TINTEL_DDF_TECH_012026_olist_order_items_pipeline to Snowflake using mode overwrite
+2026-01-17 15:47:35.590  INFO        brain.app.services.job_metadata_service  Making request to https://oz8v2zid1e.execute-api.us-east-1.amazonaws.com/jobs/db7d83d8_597e_4778_b942_3962eda2b2f8_0/connector_state
+2026-01-17 15:47:36.108  INFO        brain.app.services.job_metadata_service  update_incremental_value 200 {"status":true,"detail":"Successfully updated the data_asset for job_id: db7d83d8_597e_4778_b942_3962eda2b2f8_0"}
+2026-01-17 15:47:37.074  INFO        __main__                        Starting to catalog the metadata
