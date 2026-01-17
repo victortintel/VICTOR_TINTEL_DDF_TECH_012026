@@ -21,4 +21,4 @@ Repositório do case técnico seguindo o ciclo de vida dos dados: Integrar → P
 - [Item 8 — Pipelines](entregas/08_pipelines.md)
 - [Item 9 — Data Apps (Streamlit)](entregas/09_data_apps.md)
 - [Item 10 — Apresentação do Case](entregas/10_apresentacao.md)
-- [Bônus — GenAI + Data Apps](entregas/bonus_genai_dataapps.md)
+
