@@ -82,9 +82,9 @@ Para a análise temporal, foi utilizada uma query SQL (salva na plataforma) para
 
 **Tipo:** Donut (pie)   
 **Evidência:**
-- `assets/prints/ITEM7_viz03_top_sellers_by_items.png`
+- `assets/prints/ITEM7_viz03_top_sellers_volume.png`
 
-![Scatter - Frete vs Preço](../assets/prints/ITEM7_viz03_top_sellers_by_items.png)
+![Scatter - Frete vs Preço](../assets/prints/ITEM7_viz03_top_sellers_volume.png)
 
 ---
 
@@ -94,9 +94,9 @@ Para a análise temporal, foi utilizada uma query SQL (salva na plataforma) para
 
 **Tipo:** Histogram  
 **Evidência:**
-- `assets/prints/ITEM7_viz04_sales_by_city_donut.png`
+- `assets/prints/ITEM7_viz04_pie_top_cidades_vendas.png`
 
-![Histograma - Preço](../assets/prints/ITEM7_viz04_sales_by_city_donut.png)
+![Histograma - Preço](../assets/prints/ITEM7_viz04_pie_top_cidades_vendas.png)
 
 ---
 
@@ -107,9 +107,9 @@ Para a análise temporal, foi utilizada uma query SQL (salva na plataforma) para
 **Tipo:** Bar chart
 **Dataset:** olist_order_items_dataset   
 **Evidência:**
-- `assets/prints/ITEM7_viz05_most_frequent_item_price.png`
+- `assets/prints/ITEM7_viz05_bar_preco_mais_frequente.png`
 
-![Pie - Features textuais](../assets/prints/ITEM7_viz05_most_frequent_item_price.png)
+![Pie - Features textuais](../assets/prints/ITEM7_viz05_bar_preco_mais_frequente.png)
 
 ---
 
