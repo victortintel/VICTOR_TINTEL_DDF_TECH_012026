@@ -11,14 +11,22 @@ Entregar uma **prova de conceito** de que a Dadosfera é uma alternativa viável
 
 ## Entregáveis do Item 10
 1) **Apresentação (10 slides)** cobrindo os itens anteriores e defendendo a viabilidade da Dadosfera.  
-2) Roteiro + evidências (prints e links) para comprovar execução e ativos.
+2) Roteiro + evidências (prints e links) para comprovar execução e ativos.  
+3) **Vídeo da apresentação (YouTube - Unlisted)** com link referenciado neste markdown.
+
+---
+
+## Vídeo da apresentação (YouTube)
+Link do vídeo (garantir como **Unlisted** e acessível para qualquer pessoa com o link):
+
+https://www.youtube.com/watch?v=8AAQx7k5NEU
 
 ---
 
 ## Link do Data App (Streamlit)
 Aplicação publicada no Streamlit Community Cloud:
 
-**https://victortintelddftech012026-etq6rseufiwq7kvxqxpyf2.streamlit.app/**
+https://victortintelddftech012026-etq6rseufiwq7kvxqxpyf2.streamlit.app/
 
 Dataset final usado no App:
 - `stg_product_text_features_free.csv` (500 produtos / 13 colunas)
