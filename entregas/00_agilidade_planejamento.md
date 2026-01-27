@@ -81,5 +81,5 @@ I --> J["Item 10 - Video e arquitetura"]
 
 ## 0.7 Recursos e papéis
 
-- **Você (Data Specialist):** ingestão, modelagem, qualidade, BI, app, apresentação
+- **Eu (Data Specialist):** ingestão, modelagem, qualidade, BI, app, apresentação
 - **Dadosfera:** plataforma (catálogo, visualização, pipelines, IAM)
