@@ -40,14 +40,14 @@ I --> J["Item 10 - Video e arquitetura"]
 
 | To Do | Doing | Done |
 |------|-------|------|
-| Integrar dados |  | Estrutura do repositório |
-| Catalogar ativos |  | Integrar dados |
-| Data Quality |  | Catalogar ativos |
-| Features com LLM |  | Data Quality |
-| Modelagem Kimball |  | Features com LLM |
-| Dashboards |  |Modelagem Kimball |
-| Pipelines |  | Dashboards |
-| Streamlit App |  | Pipelines |
+| Integrar dados |  | Feito |
+| Catalogar ativos |  | Feito |
+| Data Quality |  | Feito |
+| Features com LLM |  | Feitoty |
+| Modelagem Kimball |  | Feito |
+| Dashboards |  |Feito |
+| Pipelines |  | Feito |
+| Streamlit App |  | Feito |
 | Vídeo final |  | Feito |
 
 ---
