@@ -17,10 +17,6 @@ Planejar e representar todas as etapas do projeto (da concepção à implementa�
 - Data App em Streamlit (deploy)
 - Apresentação final (vídeo) propondo substituição parcial/total da arquitetura atual
 
-**Fora do escopo (para este case):**
-- Operação 24/7, SLAs formais, e monitoramento corporativo completo
-- Custos reais com contrato enterprise (aqui são estimativas)
-
 ---
 
 ## 0.3 Artefato de Planejamento (Fluxo + Dependências)
