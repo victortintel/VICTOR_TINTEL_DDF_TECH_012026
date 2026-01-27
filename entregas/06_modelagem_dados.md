@@ -30,10 +30,6 @@ Justificativa:
 - oferece maior detalhe (nível item), permitindo análises por produto/categoria/vendedor;
 - o volume é maior (>=100k), alinhado aos requisitos do case.
 
-### Fato complementar (derivada): `fact_orders` (opcional)
-**Grão:** 1 linha = **1 pedido** (order_id).  
-Útil para métricas operacionais (status, lead time, atraso).
-
 ---
 
 ## 6.4 Zonas/Camadas do DW (visão de arquitetura lógica)
