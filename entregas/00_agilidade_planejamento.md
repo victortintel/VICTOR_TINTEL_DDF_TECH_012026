@@ -43,7 +43,7 @@ I --> J["Item 10 - Video e arquitetura"]
 | Integrar dados |  | Feito |
 | Catalogar ativos |  | Feito |
 | Data Quality |  | Feito |
-| Features com LLM |  | Feitoty |
+| Features com LLM |  | Feito |
 | Modelagem Kimball |  | Feito |
 | Dashboards |  |Feito |
 | Pipelines |  | Feito |
