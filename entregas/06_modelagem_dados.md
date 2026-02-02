@@ -10,7 +10,7 @@ A modelagem deve facilitar:
 ---
 
 ## 6.2 Abordagem escolhida: Kimball (Star Schema)
-Escolhi **Kimball (modelo dimensional)** por ser uma abordagem amplamente utilizada em DW para BI e analytics, especialmente em ambientes transacionais como e-commerce, pois:
+Escolhi **Kimball (modelo dimensional)** por ser uma abordagem amplamente utilizada em DATAWAREHOUSE para BI e analytics, especialmente em ambientes transacionais como e-commerce, pois:
 - simplifica o consumo por analistas/negócio (modelo intuitivo);
 - melhora performance de consultas agregadas (star schema);
 - permite criar “visões” finais por área (ex.: vendas, experiência do cliente) reutilizando as mesmas dimensões;
