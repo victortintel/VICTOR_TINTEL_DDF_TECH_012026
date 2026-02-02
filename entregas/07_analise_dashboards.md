@@ -39,17 +39,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 ---
 
-## 7.4 Query SQL (série temporal)
-Para a análise temporal, foi utilizada uma query SQL (salva na plataforma) para agregar pedidos por mês com base no timestamp de compra.
-
-**Evidência (print da query SQL):**
-- `assets/prints/ITEM7_sql_query_orders_by_month.png`
-
-![SQL - pedidos por mês](../assets/prints/ITEM7_sql_query_orders_by_month.png)
-
----
-
-## 7.5 Análises criadas (5 visualizações / 5 tipos diferentes)
+## 7.4 Análises criadas (5 visualizações / 5 tipos diferentes)
 
 ### Análise 01 — Categoria (Bar Chart)
 **Pergunta:** Quais categorias concentram maior volume (ou distribuição) no dataset analisado?  
@@ -113,7 +103,7 @@ Para a análise temporal, foi utilizada uma query SQL (salva na plataforma) para
 
 ---
 
-## 7.6 Dashboard final (categoria + série temporal)
+## 7.5 Dashboard final (categoria + série temporal)
 Foi criado um dashboard consolidado contendo:
 - análise por **categoria** (Análise 01);
 - análise **temporal** (Análise 02);
@@ -126,7 +116,7 @@ Foi criado um dashboard consolidado contendo:
 
 ---
 
-## 7.7 Conclusão
+## 7.6 Conclusão
 O Item 7 foi concluído com:
 - Collection criada;
 - dataset encontrado via ID no módulo Visualização;
