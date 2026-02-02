@@ -39,7 +39,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 ---
 
-## 7.4 Análises criadas (5 visualizações / 5 tipos diferentes)
+## 7.4 Análises criadas 
 
 ### Análise 01 — Categoria (Bar Chart)
 **Pergunta:** Quais categorias concentram maior volume (ou distribuição) no dataset analisado?  
@@ -53,11 +53,11 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 ---
 
-### Análise 02 — Série temporal (Line Chart)
-**Pergunta:** Como evolui o volume de pedidos ao longo do tempo (por mês)?
-**Objetivo:** identificar tendência e sazonalidade no volume de pedidos (requisito do item).
+### Análise 02 — Distribuição por status (bar chart)
+**Pergunta:** Qual é a distribuição do volume de pedidos por status (order_status)?
+**Objetivo:** Entender o funil operacional do e-commerce: quantos pedidos estão entregues vs. em andamento vs. cancelados.
 
-**Tipo:** Line chart  
+**Tipo:** Bar chart 
 **Dataset:** olist_orders_dataset
  **Evidência:**
 - `assets/prints/ITEM7_viz02_time_line.png`
