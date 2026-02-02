@@ -55,6 +55,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 ### Análise 02 — Distribuição por status (bar chart)
 **Pergunta:** Qual é a distribuição do volume de pedidos por status (order_status)?
+
 **Objetivo:** Entender o funil operacional do e-commerce: quantos pedidos estão entregues vs. em andamento vs. cancelados.
 
 **Tipo:** Bar chart 
