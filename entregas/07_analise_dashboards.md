@@ -58,7 +58,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 **Objetivo:** Entender o funil operacional do e-commerce: quantos pedidos estão entregues vs. em andamento vs. cancelados.
 
-**Tipo:** Bar chart 
+
 **Dataset:** olist_orders_dataset
  **Evidência:**
 - `assets/prints/ITEM7_viz02_time_line.png`
@@ -71,7 +71,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 **Pergunta:** Quais sellers concentram mais itens vendidos no dataset?  
 **Objetivo:** identificar concentração de volume em poucos sellers (distribuição com cauda longa).
 
-**Tipo:** Donut (pie)   
+  
 **Evidência:**
 - `assets/prints/ITEM7_viz03_top_sellers_volume.png`
 
@@ -83,7 +83,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 **Pergunta:** Quais cidades concentram maior volume no dataset (Top cidades)?
 **Objetivo:** visualizar concentração geográfica e participação relativa das principais cidades vs “Outros”.
 
-**Tipo:** Histogram  
+
 **Evidência:**
 - `assets/prints/ITEM7_viz04_pie_top_cidades_vendas.png`
 
@@ -95,7 +95,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 **Pergunta:** Qual faixa/valor de preço aparece com maior frequência nos itens vendidos?
 **Objetivo:** identificar o preço “mais comum” (ponto de concentração) e observar distribuição de preços.
 
-**Tipo:** Bar chart
+
 **Dataset:** olist_order_items_dataset   
 **Evidência:**
 - `assets/prints/ITEM7_viz05_bar_preco_mais_frequente.png`
