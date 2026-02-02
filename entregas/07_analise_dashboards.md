@@ -81,6 +81,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 ### Análise 04 — Distribuição por cidade (Donut / Pie)
 **Pergunta:** Quais cidades concentram maior volume no dataset (Top cidades)?
+
 **Objetivo:** visualizar concentração geográfica e participação relativa das principais cidades vs “Outros”.
 
 
@@ -93,6 +94,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 
 ### Análise 05 — Preço mais frequente (Bar chart)
 **Pergunta:** Qual faixa/valor de preço aparece com maior frequência nos itens vendidos?
+
 **Objetivo:** identificar o preço “mais comum” (ponto de concentração) e observar distribuição de preços.
 
 
