@@ -124,5 +124,5 @@ O Item 7 foi concluído com:
 - Collection criada;
 - dataset encontrado via ID no módulo Visualização;
 - 5 análises com 5 tipos de visualizações diferentes;
-- dashboard final contendo análises obrigatórias (categoria e série temporal);
+- dashboard final contendo análises ;
 - evidências via prints e query SQL registrada.
