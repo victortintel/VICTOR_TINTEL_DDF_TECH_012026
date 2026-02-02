@@ -107,10 +107,7 @@ Foram utilizados datasets transacionais do Olist (raw) e o dataset de features s
 ---
 
 ## 7.5 Dashboard final (categoria + série temporal)
-Foi criado um dashboard consolidado contendo:
-- análise por **categoria** (Análise 01);
-- análise **temporal** (Análise 02);
-- (opcional) outras visualizações complementares para enriquecer o painel.
+Foi criado um dashboard consolidado com 5 análises 
 
 **Evidência:**
 - `assets/prints/ITEM7_dashboard_final.png`
