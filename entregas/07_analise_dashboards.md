@@ -138,6 +138,8 @@ O Item 7 foi concluído com:
 **Evidência:**
 - `assets/prints/ITEM7_analise_6.png`
 
+![Gráfico de linha](../assets/prints/ITEM7_analise_6.png)
+
 ---
 
 ### Análise 07 — Série temporal — Receita bruta (GMV) por mês
@@ -150,6 +152,8 @@ O Item 7 foi concluído com:
 **Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS   
 **Evidência:**
 - `assets/prints/ITEM7_analise_7.png`
+
+![Gráfico de área](../assets/prints/ITEM7_analise_7.png)
 
 ---
 
@@ -164,6 +168,8 @@ O Item 7 foi concluído com:
 **Evidência:**
 - `assets/prints/ITEM7_analise_8.png`
 
+![Gráfico de Cascata](../assets/prints/ITEM7_analise_8.png)
+
 ---
 
 ### Análise 09 — Série temporal + funil — Status do pedido por mês
@@ -177,6 +183,8 @@ O Item 7 foi concluído com:
 **Evidência:**
 - `assets/prints/ITEM7_analise_9.png`
 
+![Gráfico Combo](../assets/prints/ITEM7_analise_9.png)
+
 ---
 
 ### Análise 10 — Logística — Distribuição do tempo de entrega
@@ -189,5 +197,7 @@ O Item 7 foi concluído com:
 **Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS
 **Evidência:**
 - `assets/prints/ITEM7_analise_10.png`
+
+![Gráfico Funil](../assets/prints/ITEM7_analise_10.png)
 
 ---
