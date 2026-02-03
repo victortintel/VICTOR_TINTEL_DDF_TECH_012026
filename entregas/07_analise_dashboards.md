@@ -123,3 +123,71 @@ O Item 7 foi concluído com:
 - 5 análises com 5 tipos de visualizações diferentes;
 - dashboard final contendo análises ;
 - evidências via prints e query SQL registrada.
+
+
+---
+
+### Análise 06 — Série temporal — Pedidos por mês
+**Pergunta:** Qual a quantidade total de pedidos em cada mês?
+
+**Objetivo:** identificar o valor total de pedidos em casa mês.
+
+**Gráfico**: Gráfico de linha
+
+**Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS   
+**Evidência:**
+- `assets/prints/ITEM7_analise_6.png`
+
+---
+
+### Análise 07 — Série temporal — Receita bruta (GMV) por mês
+**Pergunta:** Qual a quantidade total receita em cada mês?
+
+**Objetivo:** identificar o valor total de receita, a receita bruta por mês.
+
+**Gráfico**: Gráfico de área
+
+**Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS   
+**Evidência:**
+- `assets/prints/ITEM7_analise_7.png`
+
+---
+
+### Análise 08 — Série temporal — Ticket médio por mês
+**Pergunta:** Qual é o valor do ticket médio em cada mês?
+
+**Objetivo:** identificar a média do total por pedido no mês.
+
+**Gráfico**: Gráfico de Cascata
+
+**Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS
+**Evidência:**
+- `assets/prints/ITEM7_analise_8.png`
+
+---
+
+### Análise 09 — Série temporal + funil — Status do pedido por mês
+**Pergunta:** Qual é o status do pedido naquele mês?
+
+**Objetivo:** identificar o status do pedido no mês.
+
+**Gráfico**: Gráfico Combo
+
+**Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS
+**Evidência:**
+- `assets/prints/ITEM7_analise_9.png`
+
+---
+
+### Análise 10 — Logística — Distribuição do tempo de entrega
+**Pergunta:** Como é a distribuição do tempo de entrega?
+
+**Objetivo:** diferença entre compra e entrega ao cliente — só pedidos entregues com datas válidas.
+
+**Gráfico**: Gráfico Funil
+
+**Dataset:** PUBLIC.TB__OOWIJY__RAW_OLIST_ORDERS
+**Evidência:**
+- `assets/prints/ITEM7_analise_10.png`
+
+---
